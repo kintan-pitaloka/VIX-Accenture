@@ -1,7 +1,7 @@
 # Accenture-task2
-Accenture virtual internship task 2
 
 ACCENTURE VIRTUAL INTERNSHIP PROGRAM-TASK 2
+
 The brief carefully states that the client wanted to see
 “An analysis of their content categories showing the top 5 categories with the largest popularity”.
 
@@ -18,5 +18,4 @@ Figure out the Top 5 performing categories
 Add up the total scores for each category.
 
 The end result should be one spreadsheet that contains:
-
 A cleaned dataset The top 5 categories
