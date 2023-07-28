@@ -1,6 +1,6 @@
-# Accenture-task2
+# Accenture-Virtual Intern
 
-ACCENTURE VIRTUAL INTERNSHIP PROGRAM-TASK 2
+ACCENTURE VIRTUAL INTERNSHIP PROGRAM-TASK 2 and Task 3
 
 The brief carefully states that the client wanted to see
 “An analysis of their content categories showing the top 5 categories with the largest popularity”.
@@ -19,3 +19,10 @@ Add up the total scores for each category.
 
 The end result should be one spreadsheet that contains:
 A cleaned dataset The top 5 categories
+
+-----------
+
+task 3:
+Create a PowerPoint presentation for Social Buzz that reports on their content performance.
+Time data visualization and storytelling skills to shine!
+
